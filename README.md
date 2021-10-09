@@ -14,6 +14,7 @@
 * Click file - import - general - Existing Projects into Workspace - next
 * Browse folder 'TestQasir' - select folder
 * Check 'Copy projects into workspace' - Finish
+
 Add library (Included in folder 'TestQasir - library')
-* client-combined-3.141.59.jar, client-combined-3.141.59-sources.jar, selenium-server-standalone-3.141.59.jar)
-![Example screenshot](./img/img.png)
+* (client-combined-3.141.59.jar, client-combined-3.141.59-sources.jar, selenium-server-standalone-3.141.59.jar)
+![Example screenshot](./img/img.PNG)
