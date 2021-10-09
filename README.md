@@ -16,4 +16,4 @@
 * Check 'Copy projects into workspace' - Finish
 Add library (Included in folder 'TestQasir - library')
 * client-combined-3.141.59.jar, client-combined-3.141.59-sources.jar, selenium-server-standalone-3.141.59.jar)
-(./img/img.png)
+![Example screenshot](./img/img.png)
