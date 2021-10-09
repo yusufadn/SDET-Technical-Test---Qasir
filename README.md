@@ -18,3 +18,7 @@
 Add library (Included in folder 'TestQasir - library')
 * (client-combined-3.141.59.jar, client-combined-3.141.59-sources.jar, selenium-server-standalone-3.141.59.jar)
 ![Example screenshot](./img/img.PNG)
+
+Adjust chrome driver executable location (Included in folder 'TestQasir - library')
+![Example screenshot](./img/img2.PNG)
+* Run it
