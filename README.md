@@ -1,5 +1,10 @@
-# SDET-Technical-Test---Qasir
+# Logical Test
 
+Included in folder 'Logical Test - index.php'
+
+# Automation Test
+
+Included in folder 'Automation Test - TestQasir'
 
 ## Technologies Used
 * JDK 16
